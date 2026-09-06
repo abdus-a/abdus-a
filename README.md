@@ -1,40 +1,26 @@
 # Abdus Sami Khan
 
-I build things and ship them. Mostly Python and Django.
+I learn things by building them from nothing. At fourteen that meant hand writing a
+Diffie-Hellman key exchange over raw sockets instead of importing a crypto library. Now it
+means writing a tokenizer character by character instead of calling a framework. My dad
+taught me to code.
 
-Psychology at Western University, London Ontario. The two are less separate than they sound.
-Most product problems turn out to be problems about how people actually behave, not how you
-wish they would.
+I believe in humans driving AI, not the other way around. On 14 July 2026 I reverted the
+embedding layer in Making-A-LLM because an assistant had written it, and set a rule for that
+project: it explains, I write. The revert is in the repo.
 
-### What I am working on
+**[Making-A-LLM](https://github.com/abdus-a/Making-A-LLM).** A language model in pure Python.
+No PyTorch, no NumPy, not even `str.split()`. The only public repo here, and the one that
+shows how I think.
 
-**Kanex Solutions** is my own shop. Web development, custom software and database work for
-small businesses.
+**Wager960.** I build the platform, a skill based one where players compete in chess,
+standard and Chess960. Python, Django and Channels. I co-founded it, and it was one of ten
+teams in the 2026 Entrepreneurial Summer Incubator at the Morrissette Institute, powered by
+Ivey.
 
-**Wager960** is a skill based platform where players compete in Chess960. I am co-founder and
-CTO. It runs on Python, Django and Channels. We were one of ten teams selected for the
-Entrepreneurial Summer Incubator at the Morrissette Institute, powered by Ivey.
+**[Kanex Solutions](https://www.kanexsolutions.com).** I build web software and databases
+for small businesses in London, Ontario. It is my own studio.
 
-**[Making-A-LLM](https://github.com/abdus-a/Making-A-LLM)** is a language model written in pure
-Python with no machine learning libraries. No PyTorch, no NumPy, not even `str.split()`. It is
-the only public repo here and it is the one that shows how I think.
+Most of my work is private: client work, and products shipping soon.
 
-### How I work
-
-I learn things by building them from nothing. When I was fourteen that meant hand writing a
-Diffie Hellman key exchange over raw sockets instead of importing a crypto library. Now it
-means writing a tokenizer character by character instead of calling a framework.
-
-The habit has not changed. The code is a lot better.
-
-I write decision records for my own projects, including the ones nobody else will read, because
-the reasoning is worth more later than the code is.
-
-### Why most of this is private
-
-Client work and a venture under an open regulatory review are not mine to publish. What is
-public is public on purpose.
-
-### Reach me
-
-London, Ontario. Open to interesting problems.
+contact@kanexsolutions.com
